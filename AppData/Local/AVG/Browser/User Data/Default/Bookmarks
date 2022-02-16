@@ -1,0 +1,74 @@
+{
+   "checksum": "9f3d5e824803a2a6055cb3a69f97fdf8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13264607595948040",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13264607595948060",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "sponsored": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13264607597025571",
+            "date_modified": "0",
+            "guid": "3e499bfb-de9e-4531-904a-1c781fe281a4",
+            "id": "6",
+            "name": "ActiveUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13264607597025586",
+            "date_modified": "0",
+            "guid": "2849ca92-b989-4be7-9e12-6ebe33886e7a",
+            "id": "7",
+            "name": "HiddenUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13264607597025593",
+            "date_modified": "0",
+            "guid": "3e52d585-2e18-4c80-b6ff-764f656a5bc4",
+            "id": "8",
+            "name": "RemovedUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13264607597025607",
+            "date_modified": "13264607597025607",
+            "guid": "fb2767f0-db24-4b55-9588-d499abdec5ff",
+            "id": "9",
+            "name": "AllSubfolders",
+            "type": "folder"
+         } ],
+         "date_added": "13264607596014677",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000099",
+         "id": "4",
+         "name": "Patrocinado",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13264607595948085",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
